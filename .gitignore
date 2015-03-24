@@ -8,14 +8,19 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+bin/
+.svn/
+
 # Windows Installer files
 *.cab
 *.msi
 *.msm
 *.msp
+*.bak
 
 # Windows shortcuts
 *.lnk
+*.bak
 
 # =========================
 # Operating System Files
